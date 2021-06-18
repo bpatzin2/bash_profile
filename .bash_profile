@@ -1,5 +1,5 @@
 # To use this, add "source ~/code/bash_profile/.bash_profile" to the top of ~/.profile 
-(or .bash_profile, not sure of the difference)
+# (or .bash_profile, not sure of the difference)
 
 
 # git
